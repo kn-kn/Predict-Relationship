@@ -10,6 +10,6 @@ Our analysis will utilize the following techniques in particular:
     Confusion Matrix
     ROC Curves and AUC (limited)
 
-The dataset consists of 396 observations of high school students in Portugal with various attributes describing each students' current situation. 
+The dataset consists of 395 observations of high school students in Portugal with various attributes describing each students' current situation. 
 
 You can view the data here: http://archive.ics.uci.edu/ml/datasets/STUDENT+ALCOHOL+CONSUMPTION
